@@ -21,7 +21,7 @@ if age in range (0,18):
     else:
         print("Error gender input")
 #smashable age
-elif age in range (18,30):
+elif age in range (18,40):
     if Gendah=="female":
         if race=="white":
             print("Smashable ? : Yes")
