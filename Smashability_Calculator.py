@@ -1,7 +1,7 @@
 age = int(input("How old is the user: "))
 Gendah = input("What's your gender (Female/Male): ").lower()
 race = input ("What's your race (White/Black/Asian/Brown): ").lower()
-Unsmashable_list=['white','brown','black']
+Unsmashable_list=['asian','brown','black']
 #underage
 if age in range (0,18):
     if Gendah=="female":
